@@ -3,6 +3,8 @@
 
 > by Manuel Laupp & ChatGPT, April 2025  
 > *DIY-Projekt zur Anbindung eines Votronic MPPT-Solarladereglers an Home Assistant via ESPHome.*
+>
+> english part below (translated by ChatGPT)
 
 ---
 
@@ -40,6 +42,9 @@ PIN 6: DATA → ESP RX (GPIO17)
 ```
 
 > ✅ GND sicherheitshalber mit Multimeter gegen Batterie-Pol (-) prüfen
+
+<img width="95" alt="Votronic_RJ12" src="https://github.com/user-attachments/assets/7975447d-dcf5-4fe4-bb4c-20b1bbd0a9e3" />
+
 
 ---
 

@@ -117,15 +117,6 @@ Durch Kombination mit anderen Victron-Komponenten (z. B. SmartShunt, VE.Direct
 Die vollständige YAML-Datei findest du in diesem Repository unter [`votronic-mppt.yaml`](https://github.com/Doka85/VotronicMPPT2HomeAssistant/blob/main/votronic_mppt.yaml).  
 Bitte beachte: **Passwörter und Keys sind in dieser Version aus Sicherheitsgründen entfernt.**
 
----
-
-## 📷 Weitere Infos & Bilder
-
-- Fotos des Einbaus
-- Pinout-Grafiken
-- 3D-Druck-Vorlagen
-
-> 🔜 folgen bald!
 
 ---
 

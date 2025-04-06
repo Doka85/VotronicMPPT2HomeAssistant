@@ -1,5 +1,7 @@
 # Votronic MPPT Solar Charger Integration via ESPHome
 
+> translated from german by ChatGPT
+
 This project documents the integration of a Votronic MPPT solar charge controller with an ESPHome-based Home Assistant system. The goal is to reliably read key data (battery voltage, solar panel voltage, current, calculated power, and energy yield) via UART and make it available to Home Assistant.
 
 ---

@@ -4,7 +4,7 @@
 > by Manuel Laupp & ChatGPT, April 2025  
 > *DIY-Projekt zur Anbindung eines Votronic MPPT-Solarladereglers an Home Assistant via ESPHome.*
 >
-> for english look @ [`README_en.md`]([https://github.com/Doka85/VotronicMPPT2HomeAssistant/blob/main/votronic_mppt.yaml](https://github.com/Doka85/VotronicMPPT2HomeAssistant/blob/main/README_en.md)) (translated by ChatGPT)
+> for english look @ [`README_en.md`](https://github.com/Doka85/VotronicMPPT2HomeAssistant/blob/main/README_en.md) (translated by ChatGPT)
 
 ---
 
@@ -29,7 +29,7 @@ Dieses Projekt dokumentiert die Integration eines **Votronic MPP Solar-Laderegle
   - (Hinweis: WROOM32 funktionierte im Test instabil)
 - **Votronic MPPT Solarregler** mit RJ12-Schnittstelle (UART 1000 baud)
 - UART-Verbindung: **RX auf GPIO17**, GND auf GND
-- RJ12-Adapter auf Schraubklemmen (z. B. von AZ-Delivery)
+- RJ12-Adapter auf Schraubklemmen (z. B. [`Amazon`](https://amzn.eu/d/eFWpZwS)
 - Eigenes 3D-Gehäuse für Montage (optional)
 
 ---

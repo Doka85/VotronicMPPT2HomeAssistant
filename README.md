@@ -59,7 +59,7 @@ PIN 6: DATA → ESP RX (GPIO17)
   - Leistung [W]
   - Energieertrag [Wh / Ah]
 - Automatisches Setzen auf 0 bei Inaktivität
-- Integration in Home Assistant (verschlüsselt)
+- Integration in Home Assistant
 
 ---
 
@@ -101,7 +101,7 @@ Nur bei **gültiger Prüfsumme** werden die Daten weiterverarbeitet.
 [E][uart:015]: Reading from UART timed out at byte 0!
 ```
 
-- Alle Messdaten bleiben in Home Assistant erhalten, sofern `restore: true` aktiviert ist
+- Alle Messdaten bleiben im ESP erhalten, sofern `restore: true` aktiviert ist
 
 ---
 

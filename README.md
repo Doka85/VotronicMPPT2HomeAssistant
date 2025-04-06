@@ -4,7 +4,7 @@
 > by Manuel Laupp & ChatGPT, April 2025  
 > *DIY-Projekt zur Anbindung eines Votronic MPPT-Solarladereglers an Home Assistant via ESPHome.*
 >
-> english part below (translated by ChatGPT)
+> for english look @README_en.MD (translated by ChatGPT)
 
 ---
 

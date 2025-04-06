@@ -29,7 +29,7 @@ Dieses Projekt dokumentiert die Integration eines **Votronic MPP Solar-Laderegle
   - (Hinweis: WROOM32 funktionierte im Test instabil)
 - **Votronic MPPT Solarregler** mit RJ12-Schnittstelle (UART 1000 baud)
 - UART-Verbindung: **RX auf GPIO17**, GND auf GND
-- RJ12-Adapter auf Schraubklemmen (z. B. [`Amazon`](https://amzn.eu/d/eFWpZwS)
+- RJ12-Adapter auf Schraubklemmen (z. B. [`Amazon`](https://amzn.eu/d/eFWpZwS) )
 - Eigenes 3D-Gehäuse für Montage (optional)
 
 ---
